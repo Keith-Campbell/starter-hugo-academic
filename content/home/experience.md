@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Bachelor's Degree in Science and Engineering
+    company: Nanzan University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Nagoya
+    date_start: '2012-04'
+    date_end: '2016-03'
+    #description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

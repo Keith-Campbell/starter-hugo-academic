@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Nagoya
-    date_start: '2012-04'
-    date_end: '2016-03'
+    date_start: '2012-04-01'
+    date_end: '2016-03-31'
     #description: Taught electronic engineering and researched semiconductor physics.
 
 design:

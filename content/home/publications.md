@@ -17,10 +17,10 @@ content:
   filters:
     folders:
       - publication
-    tag: ''
+    tag: 'optimization'
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: 'Full Paper'
+    author: 'Atsushi Hori and Masao Fukushima'
     exclude_featured: false
     exclude_future: false
     exclude_past: false

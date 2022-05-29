@@ -1,20 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'Gauss--Seidel method for multi-leader--follower games'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Atsushi Hori
+  - Masao Fukushima
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2019'
+doi: 'https://doi.org/10.1007/s10957-018-1391-5'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -23,18 +23,18 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Journal of Optimization Theory and Applications*, Vol. 180, pp. 651-670, 2019
+publication_short: In *JOTA*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The multi-leader–follower game has many applications such as the bilevel structured market in which two or more enterprises, called leaders, have initiatives, and the other firms, called followers, observe the leaders’ decisions and then decide their own strategies. A special case of the game is the Stackelberg model, or the single-leader–follower game, which has been studied for many years. The Stackelberg game may be reformulated as a mathematical program with equilibrium constraints, which has also been studied extensively in recent years. On the other hand, the multi-leader--follower game may be formulated as an equilibrium problem with equilibrium constraints, in which each leader’s problem is an mathematical program with equilibrium constraints. However, finding an equilibrium point of an equilibrium problem with equilibrium constraints is much more difficult than solving a single mathematical program with equilibrium constraints, because each leader’s problem contains those variables which are common to other players’ problems. Moreover, the constraints of each leader’s problem depend on the other rival leaders’ strategies. In this paper, we propose a Gauss--Seidel type algorithm with a penalty technique for solving an equilibrium problem with equilibrium constraints associated with the multi-leader--follower game, and then suggest a refinement procedure to obtain more accurate solutions. We discuss convergence of the algorithm and report some numerical results to illustrate the behavior of the algorithm.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We propose a Gauss--Seidel type algorithm with a penalty technique for solving an equilibrium problem with equilibrium constraints associated with the multi-leader--follower game, and then suggest a refinement procedure to obtain more accurate solutions.
 
-tags: []
+tags: ['multi-leader-follower game', 'Stackelberg game', 'Gauss--Seidel method', 'penalty method', 'B-stationary', 'S-stationary']
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

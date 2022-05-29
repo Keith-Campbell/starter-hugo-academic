@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle: includes work experience
+subtitle: includes work experience and education
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -27,6 +27,13 @@ experience:
     location: Kyoto
     date_start: '2020-04-01'
     date_end: ''
+
+  - title: Researcher and software engineer
+    company: SUSLab (SUS Corporation)
+    location: Kyoto
+    date_start: '2020-04-01'
+    date_end: '2021-12-31'
+    description: Research engineer using operations research and machine learning
 
   - title: Software Engineer
     company: Mitsubishi Electric Corporation
@@ -46,6 +53,7 @@ experience:
     location: Nagoya
     date_start: '2016-04-01'
     date_end: '2018-03-31'
+    description: Majored in operations research and applied mathematics.
 
   - title: Bachelor's Degree in Science and Engineering
     company: Nanzan University
@@ -54,7 +62,7 @@ experience:
     location: Nagoya
     date_start: '2012-04-01'
     date_end: '2016-03-31'
-    #description: Taught electronic engineering and researched semiconductor physics.
+    description: Majored in operations research and statistics.
 
 design:
   columns: '2'

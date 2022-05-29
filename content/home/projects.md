@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Equilibrium Problems
+      tag: Equilibrium Problems
     - name: Other
       tag: Demo
 

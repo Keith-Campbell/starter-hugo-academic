@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: includes work experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -35,12 +35,11 @@ experience:
     location: Himeji
     date_start: '2018-04-01'
     date_end: '2020-03-15'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+   # description: |2-
+   #     Responsibilities include:
+   #     
+   #     * Developing
+   #     * Testing
 
   - title: Master's Degree in Science and Engineering
     company: Nanzan University

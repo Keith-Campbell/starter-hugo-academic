@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science (Candidate)
+    - course: PhD in Computer Science 
       institution: Kyoto University
-      year: 2023
+      year: 2023 (expected)
     - course: MScEng in Operations Research and Statistics
       institution: Nanzan University
       year: 2018
@@ -71,6 +71,7 @@ email: 'hori@amp.i.kyoto-u.ac.jp'
 highlight_name: true
 ---
 
-Atsushi Hori is a Ph.D. candidate at Kyoto University. He is interested in mathematical optimization and particularly working with variational inequalities under uncertainty.
+Atsushi Hori is a Ph.D. student at Kyoto University. I am interested in mathematical optimization and particularly working variational inequalities and Nash equilibrium problems under uncertainty.
+My current supervisor is Professor Nobuo Yamashita, and the previous supervisor (when I was in Nanzan University) is Professor Masao Fukushima who is a professor emeritus at Kyoto University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

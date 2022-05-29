@@ -29,10 +29,10 @@ education:
     - course: PhD in Computer Science (Candidate)
       institution: Kyoto University
       year: 2023
-    - course: MScEng in Mathematical Science and Engineering
+    - course: MScEng in Operations Research and Statistics
       institution: Nanzan University
       year: 2018
-    - course: BSc in Mathematical Science and Engineering
+    - course: BSc in Operations Research and Statistics
       institution: Nanzan University
       year: 2016
 

@@ -17,12 +17,12 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #feature:
   - description: 90%
-    icon: function
-    icon_pack: fas
+    icon: 
+    icon_pack: 
     name: Optimization
   - description: 60%
-    icon: chart-line
-    icon_pack: fas
+    icon: 
+    icon_pack: 
     name: Statistics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
